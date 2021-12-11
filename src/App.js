@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { Editor } from "konva-image-editor";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div
+      style={{
+        boxShadow: "0px 8px 15px 5px #c1c1c1",
+        borderRadius: "10px",
+        overflow: "hidden",
+        width: "100vw",
+        maxWidth: "1000px",
+        margin: "50px auto",
+      }}
+    >
+      <Editor responsive aspectRatio={0.7} />
     </div>
   );
 }
