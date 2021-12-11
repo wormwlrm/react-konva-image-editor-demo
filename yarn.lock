@@ -7086,14 +7086,10 @@ klona@^2.0.4:
   resolved "https://registry.yarnpkg.com/klona/-/klona-2.0.4.tgz#7bb1e3affb0cb8624547ef7e8f6708ea2e39dfc0"
   integrity sha512-ZRbnvdg/NxqzC7L9Uyqzf4psi1OM4Cuc+sJAkQPjO6XkQIJTNbfK2Rsmbw8fx1p2mkZdp2FZYo2+LwXYY/uwIA==
 
-"konva-image-editor@link:../konva-image-editor":
-  version "0.0.0"
-  uid ""
-
 konva@^8.2.2:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/konva/-/konva-8.3.0.tgz#538452fedc0d0e135415f5f53787f779e8530027"
-  integrity sha512-V83lFjf1xPJp7SzWKktOgRFPYa8SOHKVfgru3jjdMjKTGNpCGrIh3CuJeKC/tJ5Fg0P3lOpPCR30gDbDsATmDA==
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/konva/-/konva-8.3.1.tgz#9243cbfada641fdda166446c61cbfc1b6bf00217"
+  integrity sha512-9YVM/nKWKTdGppPkhVY+E1FI+brrSmPygPO1qUSH2Dd7q0bgCX8V9DLqOp15myY7Wxmy5JDx9dWdd0fQZpikZw==
 
 language-subtag-registry@~0.3.2:
   version "0.3.21"
@@ -9316,10 +9312,10 @@ react-is@^17.0.2:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-konva-image-editor@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/react-konva-image-editor/-/react-konva-image-editor-0.0.2.tgz#69de8dae32e4ced8b36bb88da6da8410492172c4"
-  integrity sha512-0IOI/T/JHxUO1eie1GioUGER17vFNyI1vszNxLoICb36SM72sDrufovSiie//LdDsoXCMrbrj05HajddhDgFeA==
+react-konva-image-editor@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/react-konva-image-editor/-/react-konva-image-editor-0.0.4.tgz#e1f71244d39555853f31b1740c3c728e61963489"
+  integrity sha512-jwcMOSkbNumvHUVGnoLkil1ApCFXariX77DZGTZD351TYJXzjIlNVsMn58t/409n7ouWyCT1wb6c1XEKBu/HQg==
   dependencies:
     "@emotion/react" "^11.7.0"
     "@emotion/styled" "^11.6.0"
@@ -10651,9 +10647,9 @@ stylehacks@^4.0.0:
     postcss-selector-parser "^3.0.0"
 
 stylis@^4.0.10, stylis@^4.0.3:
-  version "4.0.10"
-  resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.0.10.tgz#446512d1097197ab3f02fb3c258358c3f7a14240"
-  integrity sha512-m3k+dk7QeJw660eIKRRn3xPF6uuvHs/FFzjX3HQ5ove0qYsiygoAhwn5a3IYKaZPo5LrYD0rfVmtv1gNY1uYwg==
+  version "4.0.12"
+  resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.0.12.tgz#cad79b30964de9a7e3ca92687a0e73718cbf0e17"
+  integrity sha512-eVXQEZqRRFRvl8Aor1kNWN7ViNss9tYhphVBFNxyCJWKdK+FO5sOVKEHk7Dg/vLAr1xYQBpUb+7weU4AlDUm8g==
 
 supports-color@^5.3.0:
   version "5.5.0"
