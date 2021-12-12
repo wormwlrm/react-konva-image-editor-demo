@@ -9312,10 +9312,10 @@ react-is@^17.0.2:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-konva-image-editor@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/react-konva-image-editor/-/react-konva-image-editor-0.0.4.tgz#e1f71244d39555853f31b1740c3c728e61963489"
-  integrity sha512-jwcMOSkbNumvHUVGnoLkil1ApCFXariX77DZGTZD351TYJXzjIlNVsMn58t/409n7ouWyCT1wb6c1XEKBu/HQg==
+react-konva-image-editor@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/react-konva-image-editor/-/react-konva-image-editor-0.0.7.tgz#cd110493c4d0fd7b4045a85873b6d9184a3bce1b"
+  integrity sha512-fWs3uLwXpTOMYDIjyxyYqM1CE8H65djO7eonucrgMn4ea1dlSn0EuPzF6j8jXopXuXI91Kv1cm/9AGcdne4ttg==
   dependencies:
     "@emotion/react" "^11.7.0"
     "@emotion/styled" "^11.6.0"
